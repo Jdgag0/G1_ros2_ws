@@ -1,0 +1,11 @@
+/install
+/log
+/build
+# Ignorar cachés de Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
